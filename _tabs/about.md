@@ -11,7 +11,7 @@ order: 4
 ### 我
 
 - GitHub: [wlwu92](https://github.com/wlwu92)
-- 技术方向：AI / 机器学习 / 后端开发
+- 技术方向：具身智能 / 自动驾驶 / Infra
 
 ### 关于本站
 
